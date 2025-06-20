@@ -35,27 +35,7 @@
   { "id": 27, "name": "Paper Street Soap Co.", "industry": "Retail", "contactEmail": "info@paperstreet.com" },
   { "id": 28, "name": "Sirius Cybernetics Corp", "industry": "AI", "contactEmail": "support@siriuscyber.com" },
   { "id": 29, "name": "Yoyodyne Propulsion Systems", "industry": "Aerospace", "contactEmail": "info@yoyodyne.com" },
-  { "id": 30, "name": "Globex Corp", "industry": "Conglomerate", "contactEmail": "contact@globexcorp.com" },
-  { "id": 31, "name": "InGen", "industry": "Biotech", "contactEmail": "support@ingen.com" },
-  { "id": 32, "name": "Gringotts Bank", "industry": "Finance", "contactEmail": "vaults@gringotts.com" },
-  { "id": 33, "name": "Red Pill Technologies", "industry": "Software", "contactEmail": "info@redpilltech.com" },
-  { "id": 34, "name": "Silver Shamrock", "industry": "Retail", "contactEmail": "contact@silvershamrock.com" },
-  { "id": 35, "name": "Clampett Oil", "industry": "Energy", "contactEmail": "sales@clampettoil.com" },
-  { "id": 36, "name": "Frobozz Magic Co.", "industry": "Retail", "contactEmail": "magic@frobozz.com" },
-  { "id": 37, "name": "Bluth Company", "industry": "Real Estate", "contactEmail": "support@bluthco.com" },
-  { "id": 38, "name": "Virtucon", "industry": "Conglomerate", "contactEmail": "info@virtucon.com" },
-  { "id": 39, "name": "MegaCorp", "industry": "Conglomerate", "contactEmail": "contact@megacorp.com" },
-  { "id": 40, "name": "Kruger Industrial Smoothing", "industry": "Manufacturing", "contactEmail": "info@kruger.com" },
-  { "id": 41, "name": "Monsters Inc.", "industry": "Energy", "contactEmail": "scare@monstersinc.com" },
-  { "id": 42, "name": "Buy n Large", "industry": "Retail", "contactEmail": "support@bnl.com" },
-  { "id": 43, "name": "BiffCo Enterprises", "industry": "Construction", "contactEmail": "contact@biffco.com" },
-  { "id": 44, "name": "Zorg Industries", "industry": "Weapons", "contactEmail": "support@zorg.com" },
-  { "id": 45, "name": "Cybertronics", "industry": "Robotics", "contactEmail": "hello@cybertronics.com" },
-  { "id": 46, "name": "Rekall Inc.", "industry": "Entertainment", "contactEmail": "dreams@rekall.com" },
-  { "id": 47, "name": "Spacely Sprockets", "industry": "Manufacturing", "contactEmail": "info@spacely.com" },
-  { "id": 48, "name": "Planet Express", "industry": "Logistics", "contactEmail": "info@planetexpress.com" },
-  { "id": 49, "name": "Springfield Nuclear Power Plant", "industry": "Energy", "contactEmail": "info@springfieldnuclear.com" },
-  { "id": 50, "name": "Ministry of Silly Walks", "industry": "Government", "contactEmail": "hello@ministrywalks.gov" }
+  { "id": 30, "name": "Globex Corp", "industry": "Conglomerate", "contactEmail": "contact@globexcorp.com" }
 ]
 }
 
