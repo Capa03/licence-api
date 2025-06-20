@@ -1,4 +1,11 @@
-[
+{
+  "tenants": [
+    {
+      "id": 1,
+      "name": "foo"
+    }
+  ],
+  "clients": [
   { "id": 1, "name": "Acme Corporation", "industry": "Manufacturing", "contactEmail": "contact@acme.com" },
   { "id": 2, "name": "Globex Inc.", "industry": "Technology", "contactEmail": "info@globex.com" },
   { "id": 3, "name": "Soylent Corp", "industry": "Biotech", "contactEmail": "support@soylent.com" },
@@ -50,3 +57,6 @@
   { "id": 49, "name": "Springfield Nuclear Power Plant", "industry": "Energy", "contactEmail": "info@springfieldnuclear.com" },
   { "id": 50, "name": "Ministry of Silly Walks", "industry": "Government", "contactEmail": "hello@ministrywalks.gov" }
 ]
+}
+
+
