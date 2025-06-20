@@ -34,8 +34,7 @@
   { "id": 26, "name": "OmniCorp", "industry": "Robotics", "contactEmail": "robotics@omnicorp.com" },
   { "id": 27, "name": "Paper Street Soap Co.", "industry": "Retail", "contactEmail": "info@paperstreet.com" },
   { "id": 28, "name": "Sirius Cybernetics Corp", "industry": "AI", "contactEmail": "support@siriuscyber.com" },
-  { "id": 29, "name": "Yoyodyne Propulsion Systems", "industry": "Aerospace", "contactEmail": "info@yoyodyne.com" },
-  { "id": 30, "name": "Globex Corp", "industry": "Conglomerate", "contactEmail": "contact@globexcorp.com" }
+  { "id": 29, "name": "Yoyodyne Propulsion Systems", "industry": "Aerospace", "contactEmail": "info@yoyodyne.com" }
 ]
 }
 
